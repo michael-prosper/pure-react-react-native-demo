@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 a37268056091948a1e1fc1613c359e31e21cb70d Michael Lustig <mlustig@prosper.com> 1667580610 -0400	commit (initial): Initial commit
+a37268056091948a1e1fc1613c359e31e21cb70d f32c56f515d695b07ddad4936769ea99dbc95d7f Michael Lustig <mlustig@prosper.com> 1667580639 -0400	commit: add prosper shared navigation
+f32c56f515d695b07ddad4936769ea99dbc95d7f faec0d40ab323127c73b4f4aaea16c352bd67eaa Michael Lustig <mlustig@prosper.com> 1667581661 -0400	commit: copy over files; add prettier; remove eslint
